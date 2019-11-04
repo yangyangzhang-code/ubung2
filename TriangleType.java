@@ -1,0 +1,3 @@
+public enum TriangleType {
+   EQUILATERAL, ISOSCELES, SCALENE, ACUTE, RIGHT, OBTUSE, ILLEGAL;
+}
